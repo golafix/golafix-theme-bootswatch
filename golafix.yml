@@ -6,3 +6,6 @@ template:
 routes:
   "":
     target: "demo/tpl.overview.html"
+
+  "E404":
+    target: "demo/E404.html"
